@@ -1,6 +1,5 @@
 ## WELCOME TO MY PAGE 👋
 
-# 💫About Me :
 My name is Quang Bao.  I am a student at Duy Tan university majoring in Software Engineer.
 I am interested in AI and would like to have the opportunity to work in France.
 
