@@ -10,3 +10,14 @@ I am interested in AI and would like to have the opportunity to work in France.
 ---
 [![](https://visitcount.itsvg.in/api?id=Quangbao123&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+### ☕ Coffee-Shop-Management-System  
+A complete system for managing coffee shops efficiently.  
+**Languages:** ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+**Status:** 🟢 Active  
+[🔗 View Repository](https://github.com/your-username/Coffee-Shop-Management-System)
+
+---
+
+### 📊 Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
