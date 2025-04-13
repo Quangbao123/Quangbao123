@@ -1,7 +1,7 @@
 ## WELCOME TO MY PAGE 👋
 
-My name is Quang Bao.  I am a student at Duy Tan university majoring in Software Engineer.
-I am interested in AI and would like to have the opportunity to work in France.
+My name is Quang Bao.  I am a student at Duy Tan university, majoring in Software Engineering.
+I am interested in AI and would love the opportunity to work in France.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/winng_uyen05/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bao-nguyen-quang-190345352/) 
 
