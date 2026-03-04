@@ -20,7 +20,7 @@ I am particularly interested in how theoretical models are translated into produ
 <table>
   <tr>
     <td>Programming</td>
-    <td>Java, Python, C++</td>
+    <td>Java, Python, C++, HTML, CSS</td>
   </tr>
   <tr>
     <td>Backend & System Development</td>
