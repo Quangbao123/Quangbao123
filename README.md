@@ -39,6 +39,7 @@ I am particularly interested in how theoretical models are translated into produ
 </ul>
 
 ## 📫 Contact
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/winng_uyen05/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bao-nguyen-quang-190345352/) 
-[![](https://visitcount.itsvg.in/api?id=Quangbao123&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/winng_uyen05/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bao-nguyen-quang-190345352/) 
+[![](https://visitcount.itsvg.in/api?id=Quangbao123&icon=0&color=0)](https://visitcount.itsvg.in) -->
+[![Website](https://img.shields.io/badge/Website-nguyenquangbao.com-cyan?style=for-the-badge&logo=google-chrome&logoColor=white)](https://quangbao123.github.io/portfolio/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
